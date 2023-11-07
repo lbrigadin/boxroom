@@ -23,3 +23,5 @@ end
 group :test do
   gem 'factory_girl_rails'
 end
+
+gem "byebug", "~> 11.1"
